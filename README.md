@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JabulaniUsen
-- 👀 I’m interested in everything Tech
+- 👀 I’m interested in everything Tech and Entreprenurship
 - 🌱 I’m currently learning Front end development
 - 📫 How to reach me ... email: Jabulanietokakpan@gmail.com 
 
