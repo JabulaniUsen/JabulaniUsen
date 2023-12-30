@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JabulaniUsen
 - 👀 I’m interested in projects that solve global problems
-- 🌱 I’m a Blockchain and Fullstack developer
+- 🌱 I’m a Professional Front-end Engineer 
 - 📫 How to reach me ... email: Jabulanietokakpan@gmail.com 
 
 <!---
