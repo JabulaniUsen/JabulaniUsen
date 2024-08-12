@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Hotelrev](https://hotelrev.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://usenobong.vercel.app/](https://usenobong.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://usenobong.vercel.app/](https://usen-obong.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js, React Native**
 
