@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usenobong Etokakpan</h1>
-<h3 align="center">A passionate frontend & mobile developer from Nigeria</h3>
+<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/jabulaniusen" target="blank"><img src="https://img.shields.io/twitter/follow/jabulaniusen?logo=twitter&style=for-the-badge" alt="jabulaniusen" /></a> </p>
 
